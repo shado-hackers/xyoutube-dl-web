@@ -1,5 +1,5 @@
 
-
+    {
 4    "version": "1.0.0",
 
 5    "description": "",
@@ -31,7 +31,7 @@
 18        "url": "https://github.com/shado-hackers/xyoutube-dl-web/issues"
 
 19    },
-
+      {
 20    "homepage": "https://github.com/shado-hackers/xyoutube-dl-web#readme"
 
-21    
+21    }
